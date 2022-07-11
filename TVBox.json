@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://shadowchiu369.github.io/sc/TVBox.jar",
+"spider":"https://gitea.com/shadowchiu/sc/raw/branch/main/TVBox.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
