@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/49JeG7HZ/hfQqExJK3k5do-_pYmXNDcfo57b3NTjRwM8HUslLzcI*",
+"spider":"https://shadowchiu369.github.io/sc/TVBox.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
