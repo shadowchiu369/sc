@@ -1,4 +1,4 @@
-💥港澳台,#genre# 
+🎨港澳台,#genre# 
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://124.238.99.44:808/hls/348/index.m3u8
 凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
@@ -442,7 +442,7 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 江苏卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
 深圳卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
 
-🎨4K,#genre# 
+💥4K,#genre# 
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8 
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd 
 CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8   CCTV4K,http://39.135.55.72:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8 CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8 
