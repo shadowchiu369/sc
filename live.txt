@@ -2673,7 +2673,7 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
-🦗🦟西赞藏,#genre#
-西赞藏,http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
-西赞藏语,http://39.135.32.6:6610/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zxicd
-西赞藏语,http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8?zxicd
+🦗🦟西藏,#genre#
+西藏,http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
+西藏藏语,http://39.135.32.6:6610/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zxicd
+西藏藏语,http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8?zxicd
