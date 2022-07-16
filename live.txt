@@ -438,8 +438,8 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 💥超高清,#genre# 
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8  
 CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8  
+CCTV8K,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8 
 奥林匹克4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8 
-CCTV8K,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8
 奥林匹克8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8  
 纯享4K,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT 
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8 
