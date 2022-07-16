@@ -449,7 +449,8 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8   CCTV4K,http://39.135.55.72:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8 CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8 
 CCTV8K,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8
 CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8  
-纯享4K,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT  
+纯享4K,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT 
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8? 
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8 
 
 🌺广东,#genre#
