@@ -22,6 +22,9 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8  
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8 
+澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8 
+澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8 
+澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8 
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
