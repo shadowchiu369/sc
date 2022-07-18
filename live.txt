@@ -20,8 +20,8 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8  
 TVB翡翠台,http://113.64.147.95:808/hls/67/index.m3u8 
 TVB星河,http://113.64.147.95:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.55:808/hls/135/index.m3u8
