@@ -21,8 +21,10 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8  
 TVB翡翠台,http://113.64.147.95:808/hls/67/index.m3u8 
 TVB星河,http://113.64.147.95:808/hls/135/index.m3u8 
+TVB星河,http://113.64.147.55:808/hls/135/index.m3u8
 TVB J2,http://120.84.96.152:808/hls/86/index.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8 
@@ -37,6 +39,9 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
+中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
+中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 
+星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
 纬来戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8 
 
 💝央视,#genre#
