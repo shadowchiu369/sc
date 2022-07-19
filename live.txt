@@ -21,7 +21,8 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8  
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0  
 TVB翡翠台,http://113.64.147.95:808/hls/67/index.m3u8 
 TVB星河,http://113.64.147.95:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.55:808/hls/135/index.m3u8
@@ -454,6 +455,9 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 4K测试,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 4K电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8 
 4K电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no 
+黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8 
+科幻電影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865 
+云上电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337 
 4K修复,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
 4K修复,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221228141/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
 北京IPTV4K,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND 
@@ -1829,6 +1833,8 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 邢台综合频道,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
 鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+黄骅一套,http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8 
+黄骅二套,http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8 
 赵县电视一套,http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8?zhebd
 昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
@@ -1886,4 +1892,4 @@ K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 大奶,http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
 异类,http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
 偷情,http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
-恋物,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+恋物,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8 
