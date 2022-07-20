@@ -1850,37 +1850,45 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 西藏,http://39.135.32.10:6610/000000001000/xizangstv/1.m3u8?IASHttpSessionId=OTT?zxicd
 西藏藏语,http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8?zxicd
 
-📚iHOT,#genre#
-iHOT爱院线,http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱科幻,http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱浪漫,http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱喜剧,http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱悬疑,http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱江湖,http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱赛车,http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱体育,http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱探索,http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱奇谈,http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱玩具,http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱世界,http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱怀旧,http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱旅行,http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱极限,http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱幼教,http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱解密,http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱谍战,http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱历史,http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱猎奇,http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱都市,http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱科学,http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱时尚,http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱青春,http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱家庭,http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
-iHOT爱动漫,http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-IHOT-Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-IHOT-Y+,http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8
+👶少儿,#genre#
+北京卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8?zbeid
+北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
+北京卡酷少儿,http://39.135.32.10:6610/000000001000/kakukaton/1.m3u8?IASHttpSessionId=OTT?zbeid
+北京少儿,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
+哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
+哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+哈哈炫动少儿,http://39.135.32.24:6610/000000001000/1000000002000000172/1.m3u8?xtkg
+14台少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
+14台少儿,http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8?zyangd
+14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
+黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
+金鹰卡通,http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
+金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+金鹰卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
+卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
+卡酷少儿,http://39.135.32.24:6610/000000001000/7589856436881630561/1.m3u8?xtkg
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+少儿14台,http://117.148.179.157/PLTV/88888888/224/3221231648/index.m3u8?zzhongd
+少儿14台,http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
+少儿14台,http://39.135.32.7:6610/000000001000/cctv-14/1.m3u8?IASHttpSessionId=OTT?zzhongd
+深圳少儿,http://ye23.win/iptv/sztv.php?id=7?zguangd
+狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+优漫卡通,http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
+优漫卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?xtkg
+云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
+浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 
 🔃轮播,#genre#
 黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8 
@@ -1924,68 +1932,6 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
 武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
-
-📽️咪咕,#genre#
-MIGU古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-MIGU成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-MIGU张国荣影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
-MIGU周润发影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-MIGU怀旧老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-MIGU刘德华影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-MIGU刘亦菲影视展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
-MIGU云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-MIGUTVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-MIGU僵尸剧场,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-MIGU盗墓方法论,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
-MIGU试胆大会,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-MIGU军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-MIGU神探狄仁杰,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
-MIGU追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-MIGU每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
-
-👍NewTv,#genre#
-NewTV超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
-NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
-NewTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
-NewTV超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
-NewTV潮妈辣婆 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
-NewTV东北热剧,http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
-NewTV东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-NewTV古装剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-NewTV海外剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-NewTV欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
-NewTV欢乐剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-NewTV家庭剧场,http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
-NewTV家庭剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-NewTV金牌综艺,http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
-NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-NewTV精品大剧 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-NewTV精品纪录 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
-NewTV军旅剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-NewTV军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-NewTV明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-NewTV农业致富,http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
-NewTV农业致富,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-NewTV武搏世界,http://111.40.196.9/PLTV/88888888/224/3221225664/index.m3u8
-NewTV武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-NewTV炫舞未来,http://39.135.138.58:18890/PLTV/88888888/224/3221225707/index.m3u8
-NewTV炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-NewTV怡伴健康 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-NewTV中国功夫,http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
-NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
-
-💘CIBN,#genre#
-CIBN古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
-CIBN经典剧场,http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
-CIBN骄阳剧场,http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
-CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
-CIBN动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
-CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
-CIBN纪录片,http://211.94.219.178:18080/PLTV/68/224/3221226437/index.m3u8
-CIBN微电影,http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8
-CIBN综合,http://211.94.219.178:18080/PLTV/68/224/3221226420/index.m3u8
-CIBN真人秀,http://211.94.219.178:18080/PLTV/68/224/3221226416/index.m3u8
 
 🌸埋堆堆,#genre#
 埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
@@ -2059,6 +2005,100 @@ EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-119
 奸人语录iTVB大后宫『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
 楚留香-TVB经典『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
 【斗气一族】青涩周星星『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+
+📚iHOT,#genre#
+iHOT爱院线,http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱科幻,http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱浪漫,http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱喜剧,http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱悬疑,http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱经典,http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱江湖,http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱赛车,http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱体育,http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱探索,http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱奇谈,http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱玩具,http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱世界,http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱怀旧,http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱旅行,http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱极限,http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱幼教,http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱解密,http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱谍战,http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱历史,http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱猎奇,http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱都市,http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱科学,http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱时尚,http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱青春,http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱家庭,http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
+iHOT爱动漫,http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+IHOT-Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+IHOT-Y+,http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8
+
+📽️咪咕,#genre#
+MIGU古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+MIGU成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+MIGU张国荣影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+MIGU周润发影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+MIGU怀旧老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+MIGU刘德华影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
+MIGU刘亦菲影视展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+MIGU云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+MIGUTVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+MIGU僵尸剧场,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+MIGU盗墓方法论,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+MIGU试胆大会,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+MIGU军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+MIGU神探狄仁杰,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
+MIGU追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+MIGU每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
+
+👍NewTv,#genre#
+NewTV超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
+NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+NewTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+NewTV超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
+NewTV潮妈辣婆 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+NewTV东北热剧,http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
+NewTV东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+NewTV古装剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
+NewTV海外剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+NewTV欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
+NewTV欢乐剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+NewTV家庭剧场,http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
+NewTV家庭剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+NewTV金牌综艺,http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
+NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+NewTV精品大剧 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
+NewTV精品纪录 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
+NewTV军旅剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
+NewTV军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+NewTV明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
+NewTV农业致富,http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
+NewTV农业致富,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
+NewTV武搏世界,http://111.40.196.9/PLTV/88888888/224/3221225664/index.m3u8
+NewTV武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
+NewTV炫舞未来,http://39.135.138.58:18890/PLTV/88888888/224/3221225707/index.m3u8
+NewTV炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
+NewTV怡伴健康 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+NewTV中国功夫,http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
+NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
+
+💘CIBN,#genre#
+CIBN古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
+CIBN经典剧场,http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
+CIBN骄阳剧场,http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
+CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
+CIBN动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
+CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
+CIBN纪录片,http://211.94.219.178:18080/PLTV/68/224/3221226437/index.m3u8
+CIBN微电影,http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8
+CIBN综合,http://211.94.219.178:18080/PLTV/68/224/3221226420/index.m3u8
+CIBN真人秀,http://211.94.219.178:18080/PLTV/68/224/3221226416/index.m3u8
 
 🐠斗鱼,#genre#
 斗鱼电影HD1,http://124.223.212.38:83/douyu/4246519
@@ -2221,46 +2261,6 @@ EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-119
 斗鱼歌舞HD2,http://124.223.212.38:83/douyu/3763915
 斗鱼歌舞HD2,http://zzy789.xyz/douyu1.php?id=3763915
 斗鱼综艺HD,http://124.223.212.38:83/douyu/131977
-
-👶少儿,#genre#
-北京卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8?zbeid
-北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
-北京卡酷少儿,http://39.135.32.10:6610/000000001000/kakukaton/1.m3u8?IASHttpSessionId=OTT?zbeid
-北京少儿,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
-哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
-哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
-哈哈炫动少儿,http://39.135.32.24:6610/000000001000/1000000002000000172/1.m3u8?xtkg
-14台少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
-14台少儿,http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8?zyangd
-14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
-黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
-金鹰卡通,http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
-金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
-金鹰卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
-卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
-卡酷少儿,http://39.135.32.24:6610/000000001000/7589856436881630561/1.m3u8?xtkg
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-少儿14台,http://117.148.179.157/PLTV/88888888/224/3221231648/index.m3u8?zzhongd
-少儿14台,http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
-少儿14台,http://39.135.32.7:6610/000000001000/cctv-14/1.m3u8?IASHttpSessionId=OTT?zzhongd
-深圳少儿,http://ye23.win/iptv/sztv.php?id=7?zguangd
-狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-优漫卡通,http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
-优漫卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?xtkg
-云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
-浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 
 🈲加密频道_204658110256,#genre# 
 EXTASY成人,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
