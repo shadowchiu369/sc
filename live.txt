@@ -1857,15 +1857,15 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 EXTASY成人,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
 松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 俄罗斯成人1台,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
 俄罗斯成人1台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
 俄罗斯成人2台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
 俄罗斯成人3台,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
 俄罗斯成人4台,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://cdn.adultiptv.net/lesbian.m3u8
 俄罗斯成人5台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
 俄罗斯成人6台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
 惊艳台欧美版,https://ez.wangweizhushou.com/293tvzb.php?nn265&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDk_
 粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
@@ -1880,8 +1880,6 @@ K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 男同 720,http://cdn.adultiptv.net/gay.m3u8
 异种 720,http://cdn.adultiptv.net/interracial.m3u8
 拉丁 720,http://cdn.adultiptv.net/latina.m3u8
-女同,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-女同 720,http://cdn.adultiptv.net/lesbian.m3u8
 少妇 720,http://cdn.adultiptv.net/milf.m3u8
 色星 720,http://cdn.adultiptv.net/pornstar.m3u8
 粗暴 720,http://cdn.adultiptv.net/rough.m3u8
