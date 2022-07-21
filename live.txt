@@ -24,7 +24,8 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 TVB翡翠台,http://113.64.147.23:808/hls/67/index.m3u8? 
 TVB翡翠台,http://113.64.147.22:808/hls/67/index.m3u8? 
-TVB翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8? 
+TVB翡翠台,http://27.47.71.85:808/hls/36/index.m3u8? 
+TVB翡翠台,http://120.84.96.151:808/hls/25/index.m3u8? 
 TVB翡翠台,http://50.7.220.74:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac 
 TVB J2,http://120.84.96.152:808/hls/86/index.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8 
