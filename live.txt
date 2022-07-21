@@ -23,10 +23,7 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 TVB翡翠台,http://113.64.147.23:808/hls/67/index.m3u8? 
-TVB翡翠台,http://113.64.147.22:808/hls/67/index.m3u8? 
-TVB翡翠台,http://27.47.71.85:808/hls/36/index.m3u8? 
-TVB翡翠台,http://120.84.96.151:808/hls/25/index.m3u8? 
-TVB翡翠台,http://50.7.220.74:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac 
+TVB翡翠台,http://113.64.147.22:808/hls/67/index.m3u8?  
 TVB J2,http://120.84.96.152:808/hls/86/index.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8 
@@ -41,8 +38,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
-中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
-中天新闻,http://103.144.247.90:9500/live.m3u8?c=6  
+中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1   
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
