@@ -1,3 +1,87 @@
+测试,#genre#
+翡翠,http://50.7.220.74:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac 
+翡翠,http://113.64.147.170:808/hls/67/index.m3u8 
+翡翠,http://120.84.96.159:808/hls/25/index.m3u8 
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
+凤凰时政,http://liveplay.rednet.cn/live/fenghuang_tv_cq4jaka.m3u8 
+凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c 
+凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8 
+凤凰香港,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221226975/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8 
+凤凰香港,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰香港,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰香港,http://ott.mobaibox.com/PLTV/4/224/3221226975/index.m3u8 
+凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8 
+凤凰香港,http://183.207.249.35:80/PLTV/3/224/3221226975/index.m3u8 
+凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8 
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?nsukey=z%2BBfKGEFyh4Fp0aB8zX65Hk%2FyuGRu%2Fcr4cTxr%2Bmmk%2BoDb%2F0zWYZbCxCPjv1Rv3gbKAFnEGidkItbbNfxHvbIQE3YCs8%2B6yymajONrpRyKCPjCYyxRhJg5hMneBwbsvWsOzUhH18%2By1JBzCS0%2Fq2vam7rkPILohuX3UVdt4Gey9FetDXUW5Ck5N4QX2N3QhKrr9Kh%2FuYotUicOdfnQ675Fg%3D%3D 
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8 
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?nsukey=z%2BBfKGEFyh4Fp0aB8zX65Hk%2FyuGRu%2Fcr4cTxr%2Bmmk%2BoDb%2F0zWYZbCxCPjv1Rv3gbKAFnEGidkItbbNfxHvbIQE3YCs8%2B6yymajONrpRyKCPjCYyxRhJg5hMneBwbsvWsOzUhH18%2By1JBzCS0%2Fq2vam7rkPILohuX3UVdt4Gey9FetDXUW5Ck5N4QX2N3QhKrr9Kh%2FuYotUicOdfnQ675Fg%3D% 
+凤凰香港,http://183.207.249.35/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8 
+凤凰香港,http://ott.mobaibox.com/PLTV/4/224/3221228060/index.m3u8 
+凤凰香港,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768 
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8 
+凤凰香港,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221228060/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://125.210.152.21:9120/live/FHZW.m3u8 
+凤凰中文,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test1_4000.m3u8 
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8 
+凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228057/index.m3u8 
+凤凰中文,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8 
+凤凰中文,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰中文,http://ott.mobaibox.com/PLTV/4/224/3221226922/index.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://anren.live/HK/AQtR.m3u8 凤凰中文,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221226922/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8 
+凤凰中文,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8 
+凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221226922/index.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8?WithCaption 
+凤凰中文,http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://anren.live/HK/AQtU.m3u8 凤凰中文,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8 
+凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 
+凤凰资讯,http://171.108.239.6:8181/tsfile/live/1024_1.m3u8 
+凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?WithCaption 凤凰资讯,http://ott.mobaibox.com/PLTV/4/224/3221228057/index.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/test2_4000.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8 
+凤凰资讯,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221228057/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221226923/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰资讯,http://ott.mobaibox.com/PLTV/4/224/3221226923/index.m3u8 
+凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8 
+凤凰资讯,http://ott.mobaibox.com/PLTV/4/224/3221228098/index.m3u8 
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228098/index.m3u8 
+凤凰资讯,http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44 
+凤凰资讯,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221228098/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰资讯,http://183.207.249.34/PLTV/3/224/3221226923/index.m3u8 
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?WithCaption 
+凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 
+凤凰资讯,http://anren.live/HK/AQtQ.m3u8 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8 
+凤凰资讯,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3 
+凤凰资讯,http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
+
 📺港、澳、台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
