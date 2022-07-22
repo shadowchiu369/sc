@@ -22,8 +22,9 @@
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
-翡翠台,http://113.64.147.23:808/hls/67/index.m3u8 
-翡翠台,http://113.64.147.22:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.33:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.52:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.53:808/hls/67/index.m3u8 
 J2,http://120.84.96.152:808/hls/86/index.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8 
@@ -39,7 +40,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
 华视新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=21 
-中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1   
+中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
 卫视中文台,http://61.219.170.95:18522/hls/62/804/ch05.m3u8 
 卫视电影台,http://61.219.170.95:18529/hls/62/804/ch07.m3u8 
