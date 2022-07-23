@@ -1,4 +1,4 @@
-📺 | 港澳台,#genre#
+📺 | 港•澳•台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
@@ -60,7 +60,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 龙华电影,http://61.219.170.95:18574/hls/210/10014/cstv14.m3u8 
 龙祥时代,http://171.108.239.101:8181/tsfile/live/1011_1.m3u8 
 
-💝 | 央卫标清,#genre#
+💝 | 央•卫标清,#genre#
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
@@ -287,7 +287,7 @@ CCTV-电视指南,http://117.148.179.147/PLTV/88888888/224/3221231571/index.m3u8
 中国教育2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 中国教育4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 
-💖 | 央卫蓝光,#genre#
+💖 | 央•卫蓝光,#genre#
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1[1920*1080],http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
