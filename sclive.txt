@@ -811,7 +811,7 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 
-🎨  江苏,#genre#
+🌈  江苏,#genre#
 江苏,http://39.135.32.24:6610/000000001000/1000000001000004684/1.m3u8?xtkg?zjiangsd
 优漫卡通,http://39.135.32.10:6610/000000001000/SD-4000k-576P-youmankaton/1.m3u8?IASHttpSessionId=OTT?zjiangsd
 优漫卡通,http://39.135.32.6:6610/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zjiangsd
