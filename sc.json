@@ -1,7 +1,6 @@
 {
 // spider
 "spider":"https://shadowchiu369.github.io/sc/sc.jar",
-"spider":"https://shadowchiu369.github.io/sc/sc.txt",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9zYy9zY2xpdmUudHh0"]}]}],
