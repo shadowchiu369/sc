@@ -505,10 +505,12 @@
 {"name": "龙虾","type": 1,"url": "http://106.55.234.91:4433/?url=","ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header": {"User-Agent": "Dalvik/2.1.0"}}},
 {"name": "Web解析","type": 0,"url": "https://chaxun.truechat365.com/?url=","ext": {"flag": ["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name": "爱豆解析","type": 0,"url": "https://jx.aidouer.net/?url="},
-{"name": "冰豆解析","type": 0,"url": "https://bd.jx.cn/?url="}
-
+{"name": "冰豆解析","type": 0,"url": "https://bd.jx.cn/?url="},
+{ "name": "ceshi", "type": 1, "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=", "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]} }, { "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}} }, { "name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=" },
+{ "name":"fuqi", "type":1, "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url=" },
+{ "name":"yemu", "type":0, "url":"https://www.yemu.xyz/?url=" }, { "name":"gai", "type":0, "url":"https://www.gai4.com/?url=" }, { "name":"okjx", "type":0, "url":"https://okjx.cc/?url=" }
 ],
-"flags":["youku","qq","iqiyi","qiyi", "letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy","bilibili"],
+"flags":["youku","qq","iqiyi","qiyi","letv", "sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺"],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
